@@ -1,0 +1,25 @@
+Shreya Patel - Release Note
+
+Game Project: Bunny, Where are You?
+Creator: Shreya Patel
+Version: 2.0
+Date: 27 January 2026
+
+New Features:
+- Two endings instead of one.
+- Added a puzzle element with having to find a key for the pantry door.
+- Pantry has a carrot mechanic that when picked up, lures Bunny back to her enclosure.
+- Even after unlocking the pantry, the player can still choose to go around and try to get the other ending where they find Bunny and interact with furniture.
+- Transitions added for room changes.
+
+Fixes:
+- Dialogues now have page breaks so sentences don't overlap in one dialogue box.
+- Bunny isn't visibly obvious anymore and is a question mark instead.
+
+Improvements:
+- Each sentence has a page break for better visuals and understanding when reading.
+- Bunny is now a question mark just like the others so the player doesn't spot her immediately.
+- Instead of a question mark in the pantry, it is now a carrot.
+
+Known Bugs:
+- There weren't any known bugs.
